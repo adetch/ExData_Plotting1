@@ -25,4 +25,3 @@ legend("topright",
        lty=c(1,1)
 )
 dev.off()
-

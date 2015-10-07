@@ -44,4 +44,3 @@ plot(x=twoDaysData$DateTime,
      type="l"
 )
 dev.off()
-

@@ -16,5 +16,3 @@ hist(twoDaysData$Global_active_power,
      xlab="Global Active Power (kilowatts)"
 )
 dev.off()
-
-#"data/household_power_consumption.zip"
