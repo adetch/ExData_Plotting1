@@ -20,7 +20,7 @@ plot(x=twoDaysData$DateTime,
 lines(x=twoDaysData$DateTime,y=twoDaysData$Sub_metering_2,col='red')
 lines(x=twoDaysData$DateTime,y=twoDaysData$Sub_metering_3,col='blue')
 legend("topright",
-       c("Sub metering 1","Sub metering 2","Sub metering 3"),
+       c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),
        col=c('black','red','blue'),
        lty=c(1,1)
 )
